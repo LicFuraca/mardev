@@ -1,0 +1,47 @@
+.aboutContainer {
+	padding: 2rem 0;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.title {
+	font-size: 2rem;
+	color: #ffd60a;
+	text-transform: uppercase;
+	margin: 2rem 0;
+	font-family: "Cira Cy Bold";
+}
+
+.text {
+	width: 100%;
+	color: #dddddd;
+	margin-bottom: 0.5rem;
+	text-align: center;
+}
+
+@media (min-width: 768px) {
+	.content {
+		align-items: flex-end;
+	}
+
+	.text {
+		text-align: right;
+		width: 80%;
+	}
+}
+
+@media (min-width: 992px) {
+	.text {
+		width: 60%;
+	}
+}
+
+@media (min-width: 1200px) {
+	.text {
+		width: 5k0%;
+	}
+}

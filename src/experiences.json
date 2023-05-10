@@ -1,0 +1,24 @@
+[
+	{
+		"id": "e1",
+		"title": "Freelance Frontend Developer",
+		"company": "Legal Accurify",
+		"begin": "September 2022",
+		"end": "ongoing",
+		"description": "As a frontend developer for Legal Accurify, my main role is to interact with the client and implement new features for their website. I'm also responsible for fixing any bugs that arise and ensuring that the site functions smoothly. One of the things I enjoy about this role is the autonomy I have to manage my own time and prioritize tasks as needed. Overall, I find it rewarding to work closely with the client and see their vision come to life through the website.",
+		"image": "/img/LegalAccurify-Home.png",
+		"link": "https://www.legalaccurify.com/",
+		"order": 0
+	},
+	{
+		"id": "e2",
+		"title": "Freelance Frontend Developer",
+		"company": "Lo Jubilamos",
+		"begin": "April 2023",
+		"end": "ongoing",
+		"description": "For Lo Jubilamos, I had the opportunity to create a website from scratch, based on the client's specific requirements. I took charge of the entire design process and developed a mail submission form to enhance user experience. Currently, I'm working on implementing a chatbot to further streamline communication and interaction on the site. It's been a challenging yet fulfilling experience to have such a significant role in bringing the client's vision to life.",
+		"image": "/img/Lojubilamos-home.png",
+		"link": "https://www.lojubilamos.com/",
+		"order": 2
+	}
+]

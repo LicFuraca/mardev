@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Signika:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+@font-face {
+	font-family: Cera Cy;
+	src: url("/Cera CY Bold/Cera CY Regular.ttf");
+}
+@font-face {
+	font-family: Cera Cy Bold;
+	src: url("/Cera CY Bold/Cera CY Bold.ttf");
+}
+
+/* * COLORS */
+/* 
+Yellow #ffd60a
+White  #dddddd
+Black  #0f0e14
+*/
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	/* font-family: "Signika", sans-serif; */
+	font-family: "Cera Cy", sans-serif;
+}
+
+/* * Global Styles */
+.container {
+	width: 80%;
+	max-width: 1268px;
+	margin: 0 auto;
+}
+
+.container-full {
+	width: 100%;
+}
+
+ul,
+a,
+button,
+input {
+	outline: none;
+	border: none;
+	text-decoration: none;
+	list-style: none;
+	color: #000;
+}
+
+span,
+p {
+	line-height: 1.5;
+}
+
+.highlight {
+	color: #ffd60a;
+}
+
+.section-title {
+	margin: 2rem 0;
+	font-size: 2rem;
+	letter-spacing: 2px;
+	margin-bottom: 1rem;
+	text-transform: uppercase;
+	color: #dddddd;
+	text-align: center;
+	font-family: "Cera Cy Bold";
+}
+
+@media (min-width: 992px) {
+	.section-title {
+		font-size: 2.5rem;
+	}
+}

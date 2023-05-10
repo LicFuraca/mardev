@@ -1,0 +1,45 @@
+.projectsContainer {
+	padding: 2rem 0;
+}
+
+.titlesContainer {
+	text-align: center;
+	margin: 2rem 0;
+}
+
+.titlesContainer h2 {
+	font-size: 2rem;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #dddddd;
+	font-family: "Cera Cy Bold";
+}
+
+.titlesContainer h6 {
+	color: #515860;
+	text-transform: uppercase;
+}
+
+.slider {
+	padding-bottom: 1.5rem;
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+@media (max-width: 768px) {
+	.slider {
+		width: 90%;
+		margin: 0 auto;
+	}
+}
+
+@media (min-width: 992px) {
+	.titlesContainer h2 {
+		font-size: 2.5rem;
+	}
+
+	.titlesContainer h6 {
+		font-size: 0.9rem;
+	}
+}

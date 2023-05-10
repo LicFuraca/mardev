@@ -1,0 +1,43 @@
+.footerContainer {
+	position: relative;
+	padding: 2rem;
+}
+
+.line {
+	margin: 0 auto;
+	width: 50%;
+	height: 2px;
+	max-width: 500px;
+	background-color: #ffd60a;
+}
+
+.content {
+	text-align: center;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.socials {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	margin: 1rem 0;
+}
+
+.socials .socialIcon {
+	font-size: 1.2rem;
+	color: #dddddd;
+}
+
+.socials .socialIcon:hover {
+	color: #ffd60a;
+}
+
+.copy {
+	color: #dddddd;
+	font-size: 0.8rem;
+}

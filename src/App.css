@@ -24,6 +24,10 @@ Black  #0f0e14
 	font-family: "Cera Cy", sans-serif;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 /* * Global Styles */
 .container {
 	width: 80%;

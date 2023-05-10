@@ -17,21 +17,21 @@
 		"id": 3,
 		"title": "Calculator",
 		"description": "In this project i used React and React Hooks.",
-		"link": "https://main--polite-centaur-fb6ac8.netlify.app/Calculator",
+		"link": "https://main--polite-centaur-fb6ac8.netlify.app",
 		"image": "/img/basicReact.png"
 	},
 	{
 		"id": 4,
 		"title": "Expense Tracker",
 		"description": "In this project i used React and React Hooks.",
-		"link": "https://main--polite-centaur-fb6ac8.netlify.app/expense-tracker",
+		"link": "https://main--polite-centaur-fb6ac8.netlify.app",
 		"image": "/img/gastos.png"
 	},
 	{
 		"id": 5,
 		"title": "To-do List",
 		"description": "In this project i used React, Firebase, and React Hooks.",
-		"link": "https://main--polite-centaur-fb6ac8.netlify.app/to-do-list",
+		"link": "https://main--polite-centaur-fb6ac8.netlify.app",
 		"image": "/img/todolist.png"
 	}
 ]

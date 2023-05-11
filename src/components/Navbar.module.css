@@ -28,6 +28,7 @@
 .navToggler {
 	font-size: 1.1rem;
 	color: #dddddd;
+	cursor: pointer;
 }
 
 .navbar {
@@ -53,13 +54,14 @@
 
 .navbar li {
 	max-width: 80%;
-	margin: 0 auto;
-	padding: 0.5rem 0;
+	margin: 0.5rem auto;
 }
 
 .navbar li a {
 	color: #0f0e14;
 	font-weight: 500;
+	display: block;
+	padding: 0.5rem 0;
 }
 
 .isActive {
@@ -96,6 +98,8 @@
 
 	.navbar li a {
 		color: #dddddd;
+		display: initial;
+		padding: 0;
 	}
 }
 

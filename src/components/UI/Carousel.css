@@ -70,8 +70,8 @@
 	color: #dddddd;
 }
 
-.slick-dots li button::before {
-	color: #dddddd;
+.slick-dots li.slick-active button:before {
+	color: #ffd60a;
 }
 
 @media (max-width: 1200px) {

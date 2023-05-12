@@ -51,7 +51,7 @@ const Carousel = () => {
 			{
 				breakpoint: 768,
 				settings: {
-					dots: false,
+					dots: true,
 					arrows: true,
 					infinite: true,
 					lazyLoad: true,

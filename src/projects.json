@@ -1,37 +1,37 @@
 [
-	{
-		"id": 1,
-		"title": "E-Commerce",
-		"description": "For my latest project, I designed and implemented a responsive website using React, React Router, and Firebase.",
-		"link": "https://master--meek-tapioca-5e1047.netlify.app/",
-		"image": "/img/flowCommerce.png"
-	},
-	{
-		"id": 2,
-		"title": "Hair Saloon",
-		"description": "For this project, I designed and developed a website for Sublime Peluqueria, a hair salon in Buenos Aires.",
-		"link": "https://sublimepeluqueria.netlify.app/",
-		"image": "/img/sublime.png"
-	},
-	{
-		"id": 3,
-		"title": "Calculator",
-		"description": "In this project i used React and React Hooks.",
-		"link": "https://main--polite-centaur-fb6ac8.netlify.app",
-		"image": "/img/basicReact.png"
-	},
-	{
-		"id": 4,
-		"title": "Expense Tracker",
-		"description": "In this project i used React and React Hooks.",
-		"link": "https://main--polite-centaur-fb6ac8.netlify.app",
-		"image": "/img/gastos.png"
-	},
-	{
-		"id": 5,
-		"title": "To-do List",
-		"description": "In this project i used React, Firebase, and React Hooks.",
-		"link": "https://main--polite-centaur-fb6ac8.netlify.app",
-		"image": "/img/todolist.png"
-	}
+    {
+        "id": 1,
+        "title": "E-Commerce",
+        "description": "For my latest project, I designed and implemented a responsive website using React, React Router, and Firebase.",
+        "link": "https://master--meek-tapioca-5e1047.netlify.app/",
+        "image": "/img/flowCommerce.png"
+    },
+    {
+        "id": 2,
+        "title": "Hair Saloon",
+        "description": "For this project, I designed and developed a website for Sublime Peluqueria, a hair salon in Buenos Aires.",
+        "link": "https://sublimepeluqueria.netlify.app/",
+        "image": "/img/sublime.png"
+    },
+    {
+        "id": 3,
+        "title": "Tetris",
+        "description": "This was a codealong project, where i learn how to dinamically create a game board, how to detect collition, gameloops, and more!",
+        "link": "https://main--dashing-youtiao-078fc6.netlify.app/",
+        "image": "/img/tetris.png"
+    },
+    {
+        "id": 4,
+        "title": "Expense Tracker",
+        "description": "In this project i used React and React Hooks.",
+        "link": "https://main--polite-centaur-fb6ac8.netlify.app",
+        "image": "/img/gastos.png"
+    },
+    {
+        "id": 5,
+        "title": "To-do List",
+        "description": "In this project i used React, Firebase, and React Hooks.",
+        "link": "https://main--polite-centaur-fb6ac8.netlify.app",
+        "image": "/img/todolist.png"
+    }
 ]

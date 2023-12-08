@@ -17,21 +17,28 @@
         "id": 3,
         "title": "Tetris",
         "description": "This was a codealong project, where i learn how to dinamically create a game board, how to detect collition, gameloops, and more!",
-        "link": "https://main--dashing-youtiao-078fc6.netlify.app/",
+        "link": "https://thetetris.netlify.app/",
         "image": "/img/tetris.png"
     },
     {
         "id": 4,
         "title": "Expense Tracker",
         "description": "In this project i used React and React Hooks.",
-        "link": "https://main--polite-centaur-fb6ac8.netlify.app",
+        "link": "https://proyectosbasicosreact.netlify.app",
         "image": "/img/gastos.png"
     },
     {
         "id": 5,
         "title": "To-do List",
         "description": "In this project i used React, Firebase, and React Hooks.",
-        "link": "https://main--polite-centaur-fb6ac8.netlify.app",
+        "link": "https://proyectosbasicosreact.netlify.app",
+        "image": "/img/todolist.png"
+    },
+    {
+        "id": 6,
+        "title": "Shoot Game",
+        "description": "I made this with vanilla Javascript using GSAP library for tiny effects. Codealong Project.",
+        "link": "https://shootcircles.netlify.app/",
         "image": "/img/todolist.png"
     }
 ]
